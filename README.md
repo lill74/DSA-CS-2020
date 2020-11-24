@@ -13,6 +13,10 @@ Do the share things. (Do the right things - Google's motto)
 We share all of thing we've learned based on OpenSource on Github and Notion
 
 ### whoami
+박현서  
+백성열  
+이소울  
+이용훈
 
 # Contact
 alus20x@지메일.com
